@@ -8,6 +8,7 @@ import { Task, Notice } from "../types/types";
 
 const Ssg: NextPage = () => {
     return <div>Ssg</div>;
+    test;
 };
 
 export default Ssg;
